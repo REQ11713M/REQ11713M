@@ -1,7 +1,7 @@
 # REQ11713M
 ### May decay hold us together.
 <p align = "center">
-'rgb(256, 0, 0)'Every single instance of humanity is made to ultimately decay.
+Every single instance of humanity is made to ultimately decay.
 <p align = "center">
 This makes us all similar and the same.
 <p align = "center">
